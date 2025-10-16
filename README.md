@@ -3,9 +3,7 @@
 
 This example shows you how to load mesh files in various ways, and how to update the mesh in real-time.
 
-<video src="demo.mov" controls width="100%"></video>
-
-![](figures/trimesh.png)
+![Demo](demo.gif)
 
 
 
